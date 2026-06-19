@@ -40,5 +40,3 @@
 - [ ] 後製軟體選擇（DaVinci Resolve、Final Cut Pro、Premiere）
 
 ---
-
-*最後更新：2026-06-19*
