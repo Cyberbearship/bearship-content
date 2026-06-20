@@ -7,8 +7,8 @@
 ## 1. 專案基本資訊
 
 - **頻道名稱**：Bearship
-- **專案位置**：`/Users/weisu/Desktop/RB_Projects/bearship-content/`
-- **版本管理**：已使用 Git + GitHub（Robotbearship/bearship-content）
+- **專案位置**：`/Users/weisu/Desktop/CB_Projects/bearship-content/`
+- **版本管理**：已使用 Git + GitHub（Cyberbearship/bearship-content）
 - **管理模式**：AI 可直接執行 commit + push（已設定 full_network 權限）
 - **專案結構**：模組化設計，包含 routes、music、equipment、branding、production、research 等資料夾
 
